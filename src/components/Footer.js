@@ -15,15 +15,6 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-container">
         <div className="left">
-          <div className="location">
-            <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-          </div>
-          <div>
-            <p> 3054 SE 14th ST</p>
-
-            <p> North Bend, WA 98045</p>
-          </div>
-
           <div className="phone">
             <h4>
               <FaPhone
