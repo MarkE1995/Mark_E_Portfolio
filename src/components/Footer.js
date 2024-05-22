@@ -15,6 +15,17 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-container">
         <div className="left">
+        <div className="location">
+            <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+          </div>
+          <div>
+            <p> 8054 Nevis Run Lakewood Ranch</p>
+
+            <p> Bradenton, FL 34202</p>
+          </div>
+    
+
+    
           <div className="phone">
             <h4>
               <FaPhone
