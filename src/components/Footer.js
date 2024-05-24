@@ -2,13 +2,6 @@ import "./FooterStyles.css";
 
 import React from "react";
 
-import {
-  FaHome,
-  FaPhone,
-  FaMailBulk,
-  FaFacebook,
-  FaYoutube,
-} from "react-icons/fa";
 
 const Footer = () => {
   return (
